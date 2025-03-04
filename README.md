@@ -40,7 +40,7 @@ You can also use the services provided by Mirror Sites Matrix! See <https://m3u.
 | ------- | --- | ---- | ----- | ---------- |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](/fmml_ipv6.m3u) <br> [fmml_ipv6.txt](/txt/fmml_ipv6.txt) | [List for fanmingming/live ipv6](/list/fmml_ipv6.list) | 142 | ✅ |
 | fanmingming/live itv | [fmml_itv.m3u](/fmml_itv.m3u) <br> [fmml_itv.txt](/txt/fmml_itv.txt) | [List for fanmingming/live itv](/list/fmml_itv.list) | 189 | ✅ |
-| Ciscobug/live index | [Ciscobug_index.m3u](/Ciscobug_index.m3u) <br> [Ciscobug_index.txt](/txt/Ciscobug_index.txt) | [List for Ciscobug/live index](/list/Ciscobug_index.list) | 709 | - |
+| fanmingming/live index | [fmml_index.m3u](/fmml_index.m3u) <br> [fmml_index.txt](/txt/fmml_index.txt) | [List for fanmingming/live index](/list/fmml_index.list) | 709 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](/ycl_iptv.m3u) <br> [ycl_iptv.txt](/txt/ycl_iptv.txt) | [List for YueChan-Live IPTV](/list/ycl_iptv.list) | 78 | - |
 | cymz6/AutoIPTV-Hotel lives | [cymz6_lives.m3u](/cymz6_lives.m3u) <br> [cymz6_lives.txt](/txt/cymz6_lives.txt) | [List for cymz6/AutoIPTV-Hotel lives](/list/cymz6_lives.list) | 0 | - |
 | YanG-1989 Gather | [y_g.m3u](/y_g.m3u) <br> [y_g.txt](/txt/y_g.txt) | [List for YanG-1989 Gather](/list/y_g.list) | 128 | - |
