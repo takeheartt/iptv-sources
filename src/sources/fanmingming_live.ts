@@ -33,7 +33,7 @@ export const fanmingming_live_sources: TSources = [
   {
     name: "fanmingming/live index",
     f_name: "fmml_index",
-    url: "https://cdn.jsdelivr.net/gh/takeheartt/tvbox@master/xiaosa/ITV.txt",
+    url: "https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u",
     filter: fanmingming_live_filter,
   },
 ]
