@@ -1,10 +1,10 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Unicom**(Rollback)
+# List for **qwerttvv/Beijing-IPTV IPTV Unicom**
 
 > M3U: [q_bj_iptv_unicom.m3u](/q_bj_iptv_unicom.m3u), TXT: [q_bj_iptv_unicom.txt](/txt/q_bj_iptv_unicom.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | BRTV北京卫视[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.241:8000> |
+| 1 | BRTV北京卫视[超清HDR] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.118:8001> |
 | 2 | BRTV新闻[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.159:8000> |
 | 3 | BRTV影视[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.158:8000> |
 | 4 | BRTV文艺[高清] | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.242:8000> |
@@ -142,4 +142,4 @@
 | 136 | 音乐现场 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.70:4120> |
 | 137 | 魅力时尚 | IPv4 直链 | <http://192.168.123.1:23234/rtp/239.3.1.196:9012> |
 
-Updated at **Sat Mar 29 2025 06:23:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 29 2025 08:21:33 GMT+0000 (Coordinated Universal Time)**

@@ -1,10 +1,10 @@
-# List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**(Rollback)
+# List for **qwerttvv/Beijing-IPTV IPTV Mobile Multicast**
 
 > M3U: [q_bj_iptv_mobile_m.m3u](/q_bj_iptv_mobile_m.m3u), TXT: [q_bj_iptv_mobile_m.txt](/txt/q_bj_iptv_mobile_m.txt)
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | BRTV北京卫视[高清] | IPv4 直链 | <rtp://228.1.1.115:8000> |
+| 1 | BRTV北京卫视[超清HDR] | IPv4 直链 | <rtp://228.1.1.235:8002> |
 | 2 | BRTV新闻[高清] | IPv4 直链 | <rtp://228.1.1.189:8000> |
 | 3 | BRTV影视[高清] | IPv4 直链 | <rtp://228.1.1.190:8000> |
 | 4 | BRTV文艺[高清] | IPv4 直链 | <rtp://228.1.1.116:8000> |
@@ -132,4 +132,4 @@
 | 126 | 音乐现场 | IPv4 直链 | <rtp://228.1.1.151:4120> |
 | 127 | 魅力时尚 | IPv4 直链 | <rtp://228.1.1.86:9012> |
 
-Updated at **Sat Mar 29 2025 06:23:56 GMT+0000 (Coordinated Universal Time)**
+Updated at **Sat Mar 29 2025 08:21:33 GMT+0000 (Coordinated Universal Time)**
